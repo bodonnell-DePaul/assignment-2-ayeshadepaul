@@ -1,0 +1,15 @@
+.task-form {
+  background-color: #004d00; /* Dark green background */
+  color: white;
+  padding: 1rem; /* Adds padding to the form */
+}
+
+.task-button {
+  width: 100%; /* Makes button full width */
+}
+
+.list-group-item {
+  height: 60px; /* Set height for list items */
+  display: flex; /* Flex display for centering */
+  align-items: center; /* Center items vertically */
+}
